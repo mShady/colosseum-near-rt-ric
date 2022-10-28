@@ -1,8 +1,8 @@
 ---
 distribution_type: container
 container_release_tag: 0.1.0
-container_pull_registry: nexus3.o-ran-sc.org:10004
-container_push_registry: nexus3.o-ran-sc.org:10002
+container_pull_registry: hub.docker.com
+container_push_registry: hub.docker.com
 project: ric-plt/dbaas
 ref: a3454f896b5dc62ee0672febcb228a1b7c20e63e
 containers:
